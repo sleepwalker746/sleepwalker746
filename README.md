@@ -1,4 +1,4 @@
-<img width="1907" height="946" alt="изображение" src="https://github.com/user-attachments/assets/82b01702-119c-4d28-8ad4-768c8a970ad1" /><h1 align="center">Hi 👋, I'm Arsenii Sidorovych</h1>
+<h1 align="center">Hi 👋, I'm Arsenii Sidorovych</h1>
 <h3 align="center">A passionate Software Engineer from Ukraine living in Bulgaria</h3>
 
 - 🔭 I’m currently working on [uber-eats-clone](https://github.com/sleepwalker746/uber-eats-clone)
