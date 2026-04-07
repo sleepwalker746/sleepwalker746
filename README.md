@@ -1,5 +1,5 @@
-  ## Hi 👋, I'm Arsenii Sidorovych
-A passionate Software Engineer from Ukraine living in Bulgaria
+<h1 align="center">Hi 👋, I'm Arsenii Sidorovych</h1>
+<h3 align="center">A passionate Software Engineer from Ukraine living in Bulgaria</h3>
 
 - 🔭 I’m currently working on [uber-eats-clone](https://github.com/sleepwalker746/uber-eats-clone)
 - 🌱 I’m currently learning Bulgarian
