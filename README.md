@@ -2,10 +2,15 @@
 <h3 align="center">A passionate Software Engineer from Ukraine living in Bulgaria</h3>
 
 - 🔭 I’m currently working on [uber-eats-clone](https://github.com/sleepwalker746/uber-eats-clone)
+  
 - 🌱 I’m currently learning **Microservice's patterns, Cloud technologies, including AWS, Spring Cloud**
+  
 - 👨‍💻 All of my projects are available at https://github.com/sleepwalker746
+  
 - 💬 Ask me about **Spring, Java, SQL, Testing...**
+  
 - 📫 How to reach me: arsenii.sidorovych@gmail.com
+  
 - ⚡ Fun fact: **Both programming languages and spoken languages require syntax and semantics to effectively communicate ideas and instructions.**
 
 <h3 align="left">Connect with me:</h3>
