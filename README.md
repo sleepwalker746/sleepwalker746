@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsenii Sidorovych</h1>
-<h3 align="center">A passionate Software Engineer from Ukraine living in Bulgaria</h3>
+<h3 align="center">A passionate Software Engineer from Ukraine living in Czechia</h3>
 
 - 🔭 I’m currently working on [uber-eats-clone](https://github.com/sleepwalker746/uber-eats-clone)
   
